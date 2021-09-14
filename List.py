@@ -23,5 +23,5 @@ for i in range(0,len(name)):
     temp_dict["gravity"]= gravity[i]
     final_star_list.append(temp_dict)
     temp_dict ={}
-print(final_star_list)
+print(final_star_list) 
 
