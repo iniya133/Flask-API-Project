@@ -25,3 +25,4 @@ for i in range(0,len(name)):
     temp_dict ={}
 print(final_star_list) 
 
+ 
